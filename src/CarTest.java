@@ -18,13 +18,13 @@ public class CarTest {
         tesla.accelerate();
         tesla.stop();
 
-        audi.power();
-        audi.accelerate();
-        audi.stop();
-
-        bmw.power();
-        bmw.accelerate();
-        bmw.stop();
+//        audi.power();
+//        audi.accelerate();
+//        audi.stop();
+//
+//        bmw.power();
+//        bmw.accelerate();
+//        bmw.stop();
     }
 }
 class Car{
